@@ -1,0 +1,30 @@
+Hellow
+The winner is the one who knocks all lives out of the opponent
+
+There are two options for warriors:
+
+Fighter:
+  life - 150
+  damage - 15
+Archer:
+  life - 100
+  damage - 10
+
+Control:
+  first player (top right):
+   w - up
+   s - down
+   a - left
+   d - right
+   space - attack
+
+  second player (bottom left):
+   (arrow control)
+   up arrow - up
+   down arrow - down
+   left arrow - left
+   right arrow - right
+   enter - attack
+
+  !! the shot is fired in that direction,
+  !! in which the last step was taken
